@@ -32,10 +32,6 @@
 
 
 
-<h3>🛠 Aprendendo</h3>
-
-- 🔧 &nbsp; Nextjs | Typescript | C 
-
 <hr>
 
 
