@@ -1,90 +1,24 @@
-### Hello, World👋<h2> Eu sou o Thayrone</h2>
-
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
-<h3> 👨🏻•💻 Sobre mim </h3>
-
-
-
-- 🎓 &nbsp; Estudante em Análise e Desenvolvimento de sistemas na UniCesumar.
-
-- 🌱 &nbsp; Aventurando no mundo da programação web.
-
-- ✍️ &nbsp; Sempre em busca do próximo nível.
-
-
-
-<h3>🛠 Stacks</h3>
-
-
-
-- 🌐 &nbsp; HTML | CSS | JavaScript | Sass | ReactJS
-
-<!--
-
-- 🛢 &nbsp; MySQL | MongoDB
-
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
-
--->
-
-
-
-<hr>
-
-
-
-<br/><br/>
-
-[![Thayrone's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThayronePaula&show_icons=true)](https://github.com/ThayronePaula)
-
-<br/>
-
-<br/>
-
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThayronePaula&show_icons=true)
-
-<br><br>
-
-
-
-<hr>
-
-
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<br>
-
-
-
-<p align="center">
-
-
-
-<a href="https://www.linkedin.com/in/thayronepaula/"><img width='300' alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Thayrone de Paula-blue?style=flat-square&logo=linkedin"></a>
-
-
-
-<a  href="mailto:thayronedepaula15@gmail.com"><img width='350' alt="Email" src="https://img.shields.io/badge/Email-thayronedepaula15@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
-</p>
-
-
-
-
-
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=ThayronePaula.ThayronePaula)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
-
-
-
-
-
-<hr>
-
-
-
+## Oi! Eu sou o Thayrone 
+ <div>
+  <a href="https://github.com/ThayronePaula">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThayronePaula&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThayronePaula&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Thayrone-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Thayrone-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Thayrone-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Thayrone-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Thayrone-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Thayrone-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/thayrone_paula" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:thayronedepaula15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thayronepaula" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
