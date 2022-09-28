@@ -23,6 +23,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thayronepaula&" alt="thayronepaula" /></p>
 
+ ![](https://github.com/thayronepaula/ThayronePaula/raw/output/github-contribution-grid-snake.svg)
 
- 
 
