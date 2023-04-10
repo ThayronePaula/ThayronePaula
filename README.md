@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Angular, Node, Nest**
 
-- 📫 How to reach me **thayronedepaula@gmail.com**
+- 📫 How to reach me **thayronedepaula15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
